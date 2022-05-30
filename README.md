@@ -1,4 +1,4 @@
-### Hello, I am Huseyin Bilginer! 👋
+<h1 style="font-size: 4rem; color: yellow;">Hello, I'm Huseyin</h1>
 
 - 🔭 <b>I’m currently studying at Bursa Technical University</b>
 - 🌱 I’m currently learning Web Programming
